@@ -15,7 +15,7 @@ Created to solve real-world challenges.
 Track record of 20+ years of successful solution delivery in large and complex business environments. 
 ________________________________________
 
-How to install: www.youtube.com/@DatalynxAustralia   
+How to install: https://youtu.be/qlcBsTV6raM
 
 Get Product Key: https://shorturl.at/dvJV8
 

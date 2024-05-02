@@ -5,6 +5,9 @@
 
 Introduction: https://youtu.be/VJwL1mqbW7o
 
+Data Xplorer Download: https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/DataXplorer_Install_v12_0_0.zip
+
+
 How to install: https://www.youtube.com/watch?v=IgF1gDGbz5M
 
 Get Product Key: https://shorturl.at/dvJV8

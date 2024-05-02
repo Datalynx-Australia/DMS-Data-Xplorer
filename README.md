@@ -1,6 +1,8 @@
 # Datalynx DMS
 
-!IntroPg1 https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/IntroPg1.png
+<img src="https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/IntroPg1.png"
+     alt="Datalynx PG1"
+     style="float: left; margin-right: 10px;" />
 
 Datalynx DMS comprises two systems: Data Xplorer & Data Xchange.
 No-code platform for rapidly configuring data-related solutions.

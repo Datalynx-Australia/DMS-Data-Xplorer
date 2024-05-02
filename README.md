@@ -1,5 +1,3 @@
-# Datalynx DMS
-
 <img src="https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/IntroPg1.png"
      alt="Datalynx PG1"
      style="float: left; margin-right: 10px;" />
@@ -11,15 +9,15 @@ How to install: https://www.youtube.com/watch?v=IgF1gDGbz5M
 
 Get Product Key: https://shorturl.at/dvJV8
 
-Educational YouTube videos: www.youtube.com/@DatalynxAustralia
+Educational videos: www.youtube.com/@DatalynxAustralia
 
 LinkedIn: https://www.linkedin.com/company/datalynx  
 
-X: https://twitter.com/DatalynxAus
+X(Twitter): https://twitter.com/DatalynxAus
 
 Facebook: https://www.facebook.com/profile.php?id=61558087606463
 ________________________________________
 
-Sales: sales@datalynx.com.au 
-Support: support@datalynx.com.au
+Sales: sales@datalynx.com.au   
+Support: support@datalynx.com.au  
 For more information: www.datalynx.com.au

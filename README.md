@@ -28,7 +28,7 @@ ________________________________________
 
 #### Introduction video: https://youtu.be/VJwL1mqbW7o
 
-#### Data Xplorer Download: https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/DataXplorer_Install_v12_0_0.zip
+#### Data Xplorer Download: https://github.com/Datalynx-Australia/DMS-Data-Xplorer
 
 #### How to install: https://www.youtube.com/watch?v=IgF1gDGbz5M
 

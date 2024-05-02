@@ -1,13 +1,9 @@
 # Datalynx DMS
 
-Datalynx DMS comprises two systems: Data Xplorer & Data Xchange.
-No-code platform for rapidly configuring data-related solutions.
-Extensive inbuilt IP and accelerators.
-Operates within and across cloud and hybrid environments.
-The most complete data solution platform on the market.
-Created to solve real-world challenges. 
-Track record of 20+ years of successful solution delivery in large and complex business environments. 
-________________________________________
+<img src="https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/IntroPg1.png"
+     alt="Datalynx PG1"
+     style="float: left; margin-right: 10px;" />
+
 
 Introduction: https://youtu.be/VJwL1mqbW7o
 

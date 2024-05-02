@@ -2,11 +2,32 @@
      alt="Datalynx PG1"
      style="float: left; margin-right: 10px;" />
 
+________________________________________     
+
+
+<img src="https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/IntroPg2.png"
+     alt="Datalynx PG2"
+     style="float: left; margin-right: 10px;" />
+
+________________________________________     
+
+
+<img src="https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/IntroPg3.png"
+     alt="Datalynx PG3"
+     style="float: left; margin-right: 10px;" />
+
+________________________________________     
+
+
+<img src="https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/IntroPg4.png"
+     alt="Datalynx PG4"
+     style="float: left; margin-right: 10px;" />
+
+________________________________________
 
 Introduction: https://youtu.be/VJwL1mqbW7o
 
 Data Xplorer Download: https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/DataXplorer_Install_v12_0_0.zip
-
 
 How to install: https://www.youtube.com/watch?v=IgF1gDGbz5M
 

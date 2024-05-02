@@ -25,23 +25,24 @@ ________________________________________
 
 ________________________________________
 
-Introduction: https://youtu.be/VJwL1mqbW7o
+#### Introduction video: https://youtu.be/VJwL1mqbW7o
 
-Data Xplorer Download: https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/DataXplorer_Install_v12_0_0.zip
+#### Data Xplorer Download: https://github.com/Datalynx-Australia/DMS-Data-Xplorer
 
-How to install: https://www.youtube.com/watch?v=IgF1gDGbz5M
+#### How to install: https://www.youtube.com/watch?v=IgF1gDGbz5M
 
-Get Product Key: https://shorturl.at/dvJV8
+#### Get Product Key: https://shorturl.at/dvJV8
 
-Educational videos: www.youtube.com/@DatalynxAustralia
+#### Educational videos: www.youtube.com/@DatalynxAustralia
 
-LinkedIn: https://www.linkedin.com/company/datalynx  
+#### LinkedIn: https://www.linkedin.com/company/datalynx  
 
-X(Twitter): https://twitter.com/DatalynxAus
+#### X (Twitter): https://twitter.com/DatalynxAus
 
-Facebook: https://www.facebook.com/profile.php?id=61558087606463
+#### Facebook: https://www.facebook.com/profile.php?id=61558087606463
+
 ________________________________________
 
-Sales:   sales@datalynx.com.au     
-Support: support@datalynx.com.au     
-Website: www.datalynx.com.au
+#### Sales:   sales@datalynx.com.au     
+#### Support: support@datalynx.com.au     
+#### Website: www.datalynx.com.au

@@ -18,4 +18,4 @@ X(Twitter): https://twitter.com/DatalynxAus
 Facebook: https://www.facebook.com/profile.php?id=61558087606463
 ________________________________________
 
-Sales:sales@datalynx.com.au   Support:support@datalynx.com.au   Website:www.datalynx.com.au
+Sales:sales@datalynx.com.au     Support:support@datalynx.com.au     Website:www.datalynx.com.au

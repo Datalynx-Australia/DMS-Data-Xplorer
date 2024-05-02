@@ -1,4 +1,3 @@
-
 <img src="https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/IntroPg1.png"
      alt="Datalynx PG1"
      style="float: left; margin-right: 10px;" />

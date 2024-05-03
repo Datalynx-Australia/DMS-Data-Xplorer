@@ -25,11 +25,11 @@ ________________________________________
 
 ________________________________________
 
-#### Introduction video: https://youtu.be/VJwL1mqbW7o
+#### Introduction video: https://youtu.be/TSilv9L9H1g
 
 #### Data Xplorer Download: https://github.com/Datalynx-Australia/DMS-Data-Xplorer
 
-#### How to install: https://www.youtube.com/watch?v=IgF1gDGbz5M
+#### How to install: https://youtu.be/MY8XSwsnYU0
 
 #### Get Product Key: https://shorturl.at/dvJV8
 

@@ -2,7 +2,7 @@
      alt="Datalynx PG1"
      style="float: left; margin-right: 10px;" />
 
-     #### Introduction video: https://youtu.be/TSilv9L9H1g
+ #### Introduction video: https://youtu.be/TSilv9L9H1g
 
 ________________________________________     
 

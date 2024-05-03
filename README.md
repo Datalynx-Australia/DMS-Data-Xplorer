@@ -2,6 +2,8 @@
      alt="Datalynx PG1"
      style="float: left; margin-right: 10px;" />
 
+ #### Introduction video: https://youtu.be/TSilv9L9H1g
+
 ________________________________________     
 
 
@@ -27,9 +29,9 @@ ________________________________________
 
 #### Introduction video: https://youtu.be/TSilv9L9H1g
 
-#### Data Xplorer Download: https://github.com/Datalynx-Australia/DMS-Data-Xplorer
-
 #### How to install: https://youtu.be/MY8XSwsnYU0
+
+#### Data Xplorer Download: https://github.com/Datalynx-Australia/DMS-Data-Xplorer
 
 #### Get Product Key: https://shorturl.at/dvJV8
 

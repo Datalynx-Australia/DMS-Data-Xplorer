@@ -2,14 +2,14 @@
      alt="Datalynx PG1"
      style="float: left; margin-right: 10px;" />
 
- #### Introduction video: https://youtu.be/TSilv9L9H1g
- #### How to install: https://youtu.be/MY8XSwsnYU0
- #### Data Xplorer Download: https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/DataXplorer_Install_v12_0_0.zip  select download form (...) menu 
- #### Get Product Key: https://shorturl.at/dvJV8
- #### Educational videos: www.youtube.com/@DatalynxAustralia
- #### LinkedIn: https://www.linkedin.com/company/datalynx  
- #### X (Twitter): https://twitter.com/DatalynxAus
- #### Facebook: https://www.facebook.com/profile.php?id=61558087606463
+ ##### Introduction video: https://youtu.be/TSilv9L9H1g
+ ##### How to install: https://youtu.be/MY8XSwsnYU0
+ ##### Data Xplorer Download: https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/DataXplorer_Install_v12_0_0.zip  select download form (...) menu 
+ ##### Get Product Key: https://shorturl.at/dvJV8
+ ##### Educational videos: www.youtube.com/@DatalynxAustralia
+ ##### LinkedIn: https://www.linkedin.com/company/datalynx  
+ ##### X (Twitter): https://twitter.com/DatalynxAus
+ ##### Facebook: https://www.facebook.com/profile.php?id=61558087606463
 
 
 <img src="https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/IntroPg2.png"
@@ -27,6 +27,6 @@
      style="float: left; margin-right: 10px;" />
 
 
- #### Sales:   sales@datalynx.com.au     
- #### Support: support@datalynx.com.au     
- #### Website: www.datalynx.com.au
+ ##### Sales:   sales@datalynx.com.au     
+ ##### Support: support@datalynx.com.au     
+ ##### Website: www.datalynx.com.au

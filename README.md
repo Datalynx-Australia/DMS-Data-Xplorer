@@ -4,7 +4,9 @@
 
  ##### Introduction video: https://youtu.be/TSilv9L9H1g
  ##### How to install: https://youtu.be/MY8XSwsnYU0
- ##### Data Xplorer Download: https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/DataXplorer_Install_v12_0_0.zip  select download form [...] menu. 
+ ##### Data Xplorer Download: https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/DataXplorer_Install_v12_0_0.zip  select download form <img src="https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/IntroPg5.png"/> menu.
+
+ 
  ##### Get Product Key: https://shorturl.at/dvJV8
  ##### Educational videos: www.youtube.com/@DatalynxAustralia
  ##### LinkedIn: https://www.linkedin.com/company/datalynx  

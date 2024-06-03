@@ -3,7 +3,20 @@
      style="float: left; margin-right: 10px;" />
 
  #### Introduction video: https://youtu.be/TSilv9L9H1g
+ #### How to install: https://youtu.be/MY8XSwsnYU0
+ #### Data Xplorer Download: https://github.com/Datalynx-Australia/DMS-Data-Xplorer
+ #### Get Product Key: https://shorturl.at/dvJV8
+ _______________________________________
 
+ #### Educational videos: www.youtube.com/@DatalynxAustralia
+ #### LinkedIn: https://www.linkedin.com/company/datalynx  
+ #### X (Twitter): https://twitter.com/DatalynxAus
+ #### Facebook: https://www.facebook.com/profile.php?id=61558087606463
+________________________________________
+
+ #### Sales:   sales@datalynx.com.au     
+ #### Support: support@datalynx.com.au     
+ #### Website: www.datalynx.com.au
 ________________________________________     
 
 
@@ -25,26 +38,4 @@ ________________________________________
      alt="Datalynx PG4"
      style="float: left; margin-right: 10px;" />
 
-#### How to install: https://youtu.be/MY8XSwsnYU0
 
-#### Data Xplorer Download: https://github.com/Datalynx-Australia/DMS-Data-Xplorer
-
-#### Get Product Key: https://shorturl.at/dvJV8
-   
-
-________________________________________
-
-
-#### Educational videos: www.youtube.com/@DatalynxAustralia
-
-#### LinkedIn: https://www.linkedin.com/company/datalynx  
-
-#### X (Twitter): https://twitter.com/DatalynxAus
-
-#### Facebook: https://www.facebook.com/profile.php?id=61558087606463
-
-________________________________________
-
-#### Sales:   sales@datalynx.com.au     
-#### Support: support@datalynx.com.au     
-#### Website: www.datalynx.com.au

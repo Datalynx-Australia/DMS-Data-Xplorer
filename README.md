@@ -2,11 +2,11 @@
      alt="Datalynx PG1"
      style="float: left; margin-right: 10px;" />](https://www.datalynx.com.au/)
 
- ##### [<img src="https://github.com/Datalynx-Australia/Images/blob/main/Youtube_24.png" align="left">](https://youtu.be/TSilv9L9H1g) [Introduction video](https://youtu.be/TSilv9L9H1g)
+ #### [<img src="https://github.com/Datalynx-Australia/Images/blob/main/Youtube_24.png" align="left">](https://youtu.be/TSilv9L9H1g) [Introduction video](https://youtu.be/TSilv9L9H1g)
 
- ##### [<img src="https://github.com/Datalynx-Australia/Images/blob/main/Youtube_24.png" align="left">](https://youtu.be/MY8XSwsnYU0) [How to install](https://youtu.be/MY8XSwsnYU0)
+ #### [<img src="https://github.com/Datalynx-Australia/Images/blob/main/Youtube_24.png" align="left">](https://youtu.be/MY8XSwsnYU0) [How to install](https://youtu.be/MY8XSwsnYU0)
 
- ##### [<img src="https://github.com/Datalynx-Australia/Images/blob/main/Github_24.png" align="left">](https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/DataXplorer_Install_v12_0_0.zip) [Data Xplorer Download](https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/DataXplorer_Install_v12_0_0.zip)  select download from [<img src="https://github.com/Datalynx-Australia/Images/blob/main/Menu_16.png">](https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/DataXplorer_Install_v12_0_0.zip) menu.
+ #### [<img src="https://github.com/Datalynx-Australia/Images/blob/main/Github_24.png" align="left">](https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/DataXplorer_Install_v12_0_0.zip) [Data Xplorer Download](https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/DataXplorer_Install_v12_0_0.zip)  select download from [<img src="https://github.com/Datalynx-Australia/Images/blob/main/Menu_16.png">](https://github.com/Datalynx-Australia/DMS-Data-Xplorer/blob/main/DataXplorer_Install_v12_0_0.zip) menu.
 
  
 #### [<img src="https://github.com/Datalynx-Australia/Images/blob/main/Signup_24.png" align="left">]([https://youtu.be/FVPMFWs-a_4](https://shorturl.at/dvJV8)) [Get Product Key](https://shorturl.at/dvJV8)

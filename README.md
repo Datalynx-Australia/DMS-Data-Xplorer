@@ -4,8 +4,6 @@
 
  #### [<img src="https://github.com/Datalynx-Australia/Images/blob/main/Youtube_24.png" align="left">](https://youtu.be/JYoUSzsCsdI) [Introduction video](https://youtu.be/JYoUSzsCsdI)
 
-#### [<img src="https://github.com/Datalynx-Australia/Images/blob/main/Youtube_24.png" align="left">](https://www.youtube.com/@DatalynxAustralia) [Instructional Videos](https://www.youtube.com/@DatalynxAustralia)
- 
 
  #### [<img src="https://github.com/Datalynx-Australia/Images/blob/main/DataXplorer.png" align="left">](https://www.datalynx.com.au/xplore) [Data Xplorer Free Trial](https://www.datalynx.com.au/xplore)
 
